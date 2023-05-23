@@ -53,9 +53,9 @@ npm run serve -- --port 8080
 
 # Demonstration 
 
-[![Brander](https://github.com/Adrien-Nicolas/Brander/assets/73825898/078f3b6c-d96e-4fe5-8f17-ca201963ffee)]
+![Brander](https://github.com/Adrien-Nicolas/Brander/assets/73825898/078f3b6c-d96e-4fe5-8f17-ca201963ffee)
 
-Link below :
+Link below : \
 (http://www.youtube.com/watch?v=v=ZKgj-Enm63M "Brander Demonstration")
 
 
